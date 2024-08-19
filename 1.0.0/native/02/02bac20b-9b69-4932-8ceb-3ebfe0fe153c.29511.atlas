@@ -1,0 +1,69 @@
+
+cut_glow.png
+size: 1982,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frames/glow_fx
+  rotate: false
+  xy: 1819, 20
+  size: 162, 161
+  orig: 170, 170
+  offset: 4, 1
+  index: -1
+Frames/pot-glow
+  rotate: false
+  xy: 1373, 1
+  size: 118, 118
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+Perseus_Attack_Effect/Cut_Effect_00
+  rotate: false
+  xy: 955, 65
+  size: 416, 54
+  orig: 416, 54
+  offset: 0, 0
+  index: -1
+Perseus_Attack_Effect/Cut_Effect_01
+  rotate: false
+  xy: 1, 177
+  size: 958, 84
+  orig: 958, 84
+  offset: 0, 0
+  index: -1
+Perseus_Attack_Effect/Cut_Effect_02
+  rotate: false
+  xy: 1, 93
+  size: 952, 82
+  orig: 952, 82
+  offset: 0, 0
+  index: -1
+Perseus_Attack_Effect/Cut_Effect_03
+  rotate: false
+  xy: 961, 183
+  size: 942, 78
+  orig: 942, 78
+  offset: 0, 0
+  index: -1
+Perseus_Attack_Effect/Cut_Effect_04
+  rotate: false
+  xy: 1, 23
+  size: 912, 68
+  orig: 912, 68
+  offset: 0, 0
+  index: -1
+Perseus_Attack_Effect/Cut_Effect_05
+  rotate: false
+  xy: 961, 121
+  size: 856, 60
+  orig: 856, 60
+  offset: 0, 0
+  index: -1
+cut_glow21
+  rotate: false
+  xy: 1905, 184
+  size: 74, 77
+  orig: 78, 80
+  offset: 3, 1
+  index: -1

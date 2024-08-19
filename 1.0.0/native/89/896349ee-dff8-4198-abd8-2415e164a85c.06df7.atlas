@@ -1,0 +1,592 @@
+
+perseus_walk1.png
+size: 2044,1971
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_00
+  rotate: true
+  xy: 1198, 609
+  size: 397, 283
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_02
+  rotate: false
+  xy: 400, 1444
+  size: 397, 163
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_03
+  rotate: false
+  xy: 1388, 1423
+  size: 397, 168
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_04
+  rotate: true
+  xy: 1543, 831
+  size: 397, 226
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_06
+  rotate: false
+  xy: 1, 1612
+  size: 397, 148
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_07
+  rotate: false
+  xy: 400, 1253
+  size: 397, 189
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_09
+  rotate: true
+  xy: 1771, 614
+  size: 397, 243
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_10
+  rotate: false
+  xy: 1, 1065
+  size: 397, 195
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_11
+  rotate: false
+  xy: 1, 1450
+  size: 397, 160
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_12
+  rotate: false
+  xy: 1537, 1593
+  size: 397, 159
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_13
+  rotate: false
+  xy: 1144, 1008
+  size: 397, 220
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_14
+  rotate: true
+  xy: 1483, 432
+  size: 397, 283
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_16
+  rotate: true
+  xy: 1198, 210
+  size: 397, 283
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_00
+  rotate: true
+  xy: 1483, 33
+  size: 397, 283
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_01
+  rotate: true
+  xy: 1768, 215
+  size: 397, 275
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_02
+  rotate: false
+  xy: 1378, 1230
+  size: 397, 191
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_03
+  rotate: false
+  xy: 4, 1958
+  size: 63, 12
+  orig: 397, 352
+  offset: 334, 0
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_04
+  rotate: false
+  xy: 400, 1609
+  size: 397, 151
+  orig: 397, 352
+  offset: 0, 116
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_05
+  rotate: false
+  xy: 1, 108
+  size: 397, 258
+  orig: 397, 352
+  offset: 0, 26
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_06
+  rotate: false
+  xy: 1, 1262
+  size: 397, 186
+  orig: 397, 352
+  offset: 0, 52
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_07
+  rotate: false
+  xy: 799, 1136
+  size: 343, 199
+  orig: 397, 352
+  offset: 54, 0
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_08
+  rotate: false
+  xy: 400, 1047
+  size: 397, 204
+  orig: 397, 352
+  offset: 0, 74
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_09
+  rotate: false
+  xy: 799, 285
+  size: 397, 253
+  orig: 397, 352
+  offset: 0, 70
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_10
+  rotate: false
+  xy: 1, 368
+  size: 397, 243
+  orig: 397, 352
+  offset: 0, 70
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_11
+  rotate: false
+  xy: 1138, 1682
+  size: 397, 145
+  orig: 397, 352
+  offset: 0, 80
+  index: -1
+Mid_Win_Perseus_Motions2/Persues_Cheering_Small_Win_12
+  rotate: true
+  xy: 1153, 1248
+  size: 271, 223
+  orig: 397, 352
+  offset: 126, 27
+  index: -1
+Perseus_Attack_Effect/Cut_Effect_00
+  rotate: false
+  xy: 1, 1969
+  size: 1, 1
+  orig: 416, 54
+  offset: 415, 0
+  index: -1
+Perseus_Attack_Effect/Cut_Effect_01
+  rotate: false
+  xy: 1, 1762
+  size: 818, 83
+  orig: 958, 84
+  offset: 140, 0
+  index: -1
+Perseus_Attack_Effect/Cut_Effect_02
+  rotate: false
+  xy: 853, 1829
+  size: 837, 80
+  orig: 952, 82
+  offset: 115, 0
+  index: -1
+Perseus_Attack_Effect/Cut_Effect_03
+  rotate: false
+  xy: 1, 1847
+  size: 850, 74
+  orig: 942, 78
+  offset: 92, 0
+  index: -1
+Perseus_Attack_Effect/Cut_Effect_04
+  rotate: false
+  xy: 927, 1911
+  size: 881, 59
+  orig: 912, 68
+  offset: 31, 0
+  index: -1
+Perseus_Attack_Effect/Cut_Effect_05
+  rotate: false
+  xy: 69, 1923
+  size: 856, 47
+  orig: 856, 60
+  offset: 0, 0
+  index: -1
+Perseus_Defend_Motion_unpack/Persues_Defence_00
+  rotate: false
+  xy: 400, 54
+  size: 397, 282
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Defend_Motion_unpack/Persues_Defence_01
+  rotate: false
+  xy: 400, 821
+  size: 397, 224
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Defend_Motion_unpack/Persues_Defence_02
+  rotate: true
+  xy: 1777, 1013
+  size: 364, 226
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Defend_Motion_unpack/Persues_Defence_03
+  rotate: false
+  xy: 1, 841
+  size: 397, 222
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Defend_Motion_unpack/Persues_Defence_04
+  rotate: false
+  xy: 400, 338
+  size: 397, 249
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Defend_Motion_unpack/Persues_Defence_05
+  rotate: false
+  xy: 799, 540
+  size: 397, 239
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Defend_Motion_unpack/Persues_Defence_06
+  rotate: false
+  xy: 400, 589
+  size: 397, 230
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Defend_Motion_unpack/Persues_Defence_07
+  rotate: false
+  xy: 1, 613
+  size: 397, 226
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Defend_Motion_unpack/Persues_Defence_08
+  rotate: false
+  xy: 799, 781
+  size: 397, 225
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Defend_Motion_unpack/Persues_Defence_09
+  rotate: false
+  xy: 1787, 1379
+  size: 256, 212
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Defend_Motion_unpack/Persues_Defence_10
+  rotate: false
+  xy: 799, 1529
+  size: 188, 167
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Motions2_unpack/Persues_Attack_01_00
+  rotate: false
+  xy: 799, 1
+  size: 397, 282
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Motions2_unpack/Persues_Attack_01_04
+  rotate: true
+  xy: 821, 1698
+  size: 129, 315
+  orig: 397, 352
+  offset: 268, 37
+  index: -1
+Perseus_Motions2_unpack/Persues_Attack_01_05
+  rotate: true
+  xy: 799, 1337
+  size: 182, 352
+  orig: 397, 352
+  offset: 215, 0
+  index: -1
+Perseus_Motions2_unpack/Persues_Attack_01_06
+  rotate: false
+  xy: 1810, 1882
+  size: 166, 88
+  orig: 397, 352
+  offset: 231, 0
+  index: -1
+Perseus_Motions2_unpack/Persues_Attack_01_07
+  rotate: false
+  xy: 1692, 1754
+  size: 192, 126
+  orig: 397, 352
+  offset: 205, 0
+  index: -1
+Perseus_Motions2_unpack/Persues_Attack_01_08
+  rotate: false
+  xy: 989, 1521
+  size: 397, 159
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+
+perseus_walk12.png
+size: 1995,1805
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_01
+  rotate: false
+  xy: 1198, 27
+  size: 397, 313
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_05
+  rotate: false
+  xy: 1, 651
+  size: 397, 293
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_15
+  rotate: false
+  xy: 1198, 1233
+  size: 397, 286
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Motions2_unpack/Persues_Attack_01_01
+  rotate: false
+  xy: 400, 649
+  size: 397, 294
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Motions2_unpack/Persues_Attack_01_02
+  rotate: false
+  xy: 1597, 1
+  size: 397, 338
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Motions2_unpack/Persues_Attack_01_09
+  rotate: false
+  xy: 1, 1521
+  size: 397, 283
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield/Persues_Idle_Walking_00
+  rotate: false
+  xy: 400, 1521
+  size: 397, 283
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield/Persues_Idle_Walking_01
+  rotate: false
+  xy: 1, 1235
+  size: 397, 284
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield/Persues_Idle_Walking_02
+  rotate: false
+  xy: 400, 350
+  size: 397, 297
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield/Persues_Idle_Walking_03
+  rotate: false
+  xy: 799, 41
+  size: 397, 305
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield/Persues_Idle_Walking_04
+  rotate: false
+  xy: 1198, 642
+  size: 397, 296
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield/Persues_Idle_Walking_05
+  rotate: false
+  xy: 1198, 940
+  size: 397, 291
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield/Persues_Idle_Walking_06
+  rotate: false
+  xy: 1, 946
+  size: 397, 287
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield/Persues_Idle_Walking_07
+  rotate: false
+  xy: 1597, 641
+  size: 397, 296
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield/Persues_Idle_Walking_08
+  rotate: false
+  xy: 1198, 342
+  size: 397, 298
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield/Persues_Idle_Walking_09
+  rotate: false
+  xy: 799, 1234
+  size: 397, 285
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_00
+  rotate: false
+  xy: 799, 1521
+  size: 397, 283
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_01
+  rotate: false
+  xy: 1198, 1521
+  size: 397, 283
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_02
+  rotate: false
+  xy: 1597, 1521
+  size: 397, 283
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_03
+  rotate: false
+  xy: 400, 1235
+  size: 397, 284
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_04
+  rotate: false
+  xy: 400, 945
+  size: 397, 288
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_05
+  rotate: false
+  xy: 799, 943
+  size: 397, 289
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_06
+  rotate: false
+  xy: 799, 647
+  size: 397, 294
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_07
+  rotate: false
+  xy: 799, 348
+  size: 397, 297
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_08
+  rotate: false
+  xy: 1597, 341
+  size: 397, 298
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_09
+  rotate: false
+  xy: 1, 52
+  size: 397, 299
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_10
+  rotate: false
+  xy: 400, 49
+  size: 397, 299
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_11
+  rotate: false
+  xy: 1, 353
+  size: 397, 296
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_12
+  rotate: false
+  xy: 1597, 939
+  size: 397, 292
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Sword_And_Shield2/Persues_Idle_13
+  rotate: false
+  xy: 1597, 1233
+  size: 397, 286
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+
+perseus_walk13.png
+size: 1197,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mid_Win_Perseus_Motions/Persues_Cheering_Big_Win_08
+  rotate: false
+  xy: 1, 1
+  size: 397, 352
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Defend_Motion_unpack/Persues_Defence_11
+  rotate: false
+  xy: 400, 1
+  size: 397, 352
+  orig: 397, 352
+  offset: 0, 0
+  index: -1
+Perseus_Motions2_unpack/Persues_Attack_01_03
+  rotate: false
+  xy: 799, 1
+  size: 397, 352
+  orig: 397, 352
+  offset: 0, 0
+  index: -1

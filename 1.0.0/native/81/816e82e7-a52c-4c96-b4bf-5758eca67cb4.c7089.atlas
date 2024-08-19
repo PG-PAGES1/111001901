@@ -1,0 +1,62 @@
+
+pot_appearing.png
+size: 373,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pot-glow
+  rotate: true
+  xy: 2, 74
+  size: 124, 123
+  orig: 128, 128
+  offset: 2, 3
+  index: -1
+pot-glow02
+  rotate: true
+  xy: 2, 4
+  size: 68, 67
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+pot-glow_big
+  rotate: true
+  xy: 127, 74
+  size: 124, 123
+  orig: 128, 128
+  offset: 2, 3
+  index: -1
+pot-glow_part02
+  rotate: true
+  xy: 252, 4
+  size: 97, 94
+  orig: 102, 102
+  offset: 3, 2
+  index: -1
+vase_03
+  rotate: true
+  xy: 71, 12
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+vase_03_glo01
+  rotate: false
+  xy: 148, 34
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+vase_03_glo02
+  rotate: true
+  xy: 148, 2
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+vase_03a
+  rotate: true
+  xy: 252, 103
+  size: 95, 119
+  orig: 95, 119
+  offset: 0, 0
+  index: -1

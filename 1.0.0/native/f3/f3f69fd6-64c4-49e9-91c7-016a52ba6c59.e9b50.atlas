@@ -1,0 +1,62 @@
+
+shield.png
+size: 420,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shield
+  rotate: false
+  xy: 2, 128
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+Shield01
+  rotate: false
+  xy: 230, 166
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+fx-aura
+  rotate: false
+  xy: 2, 13
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+fx-dust
+  rotate: false
+  xy: 347, 24
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+fx-embers
+  rotate: false
+  xy: 117, 13
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+fx-embers1
+  rotate: false
+  xy: 232, 51
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+fx-slash
+  rotate: true
+  xy: 347, 82
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+guangxiao
+  rotate: false
+  xy: 232, 2
+  size: 91, 47
+  orig: 91, 47
+  offset: 0, 0
+  index: -1

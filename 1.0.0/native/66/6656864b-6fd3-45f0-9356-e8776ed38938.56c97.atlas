@@ -1,0 +1,104 @@
+
+wind.jpg
+size: 1932,1166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Win_Frame_Effect/PaySelect_00
+  rotate: true
+  xy: 1, 7
+  size: 362, 396
+  orig: 380, 400
+  offset: 9, 0
+  index: -1
+Win_Frame_Effect/PaySelect_01
+  rotate: false
+  xy: 1, 769
+  size: 380, 396
+  orig: 380, 400
+  offset: 0, 0
+  index: -1
+Win_Frame_Effect/PaySelect_02
+  rotate: true
+  xy: 1163, 2
+  size: 377, 393
+  orig: 380, 400
+  offset: 0, 0
+  index: -1
+Win_Frame_Effect/PaySelect_03
+  rotate: true
+  xy: 1525, 400
+  size: 373, 394
+  orig: 380, 400
+  offset: 0, 1
+  index: -1
+Win_Frame_Effect/PaySelect_04
+  rotate: false
+  xy: 1529, 775
+  size: 373, 390
+  orig: 380, 400
+  offset: 0, 6
+  index: -1
+Win_Frame_Effect/PaySelect_05
+  rotate: true
+  xy: 765, 1
+  size: 372, 396
+  orig: 380, 400
+  offset: 1, 0
+  index: -1
+Win_Frame_Effect/PaySelect_06
+  rotate: false
+  xy: 1558, 6
+  size: 373, 392
+  orig: 380, 400
+  offset: 0, 0
+  index: -1
+Win_Frame_Effect/PaySelect_07
+  rotate: false
+  xy: 1143, 381
+  size: 380, 390
+  orig: 380, 400
+  offset: 0, 6
+  index: -1
+Win_Frame_Effect/PaySelect_08
+  rotate: false
+  xy: 1, 371
+  size: 380, 396
+  orig: 380, 400
+  offset: 0, 0
+  index: -1
+Win_Frame_Effect/PaySelect_09
+  rotate: false
+  xy: 765, 375
+  size: 376, 396
+  orig: 380, 400
+  offset: 1, 0
+  index: -1
+Win_Frame_Effect/PaySelect_10
+  rotate: false
+  xy: 383, 769
+  size: 380, 396
+  orig: 380, 400
+  offset: 0, 0
+  index: -1
+Win_Frame_Effect/PaySelect_11
+  rotate: false
+  xy: 383, 373
+  size: 380, 394
+  orig: 380, 400
+  offset: 0, 2
+  index: -1
+Win_Frame_Effect/PaySelect_12
+  rotate: false
+  xy: 1147, 775
+  size: 380, 390
+  orig: 380, 400
+  offset: 0, 6
+  index: -1
+Win_Frame_Effect/PaySelect_13
+  rotate: false
+  xy: 765, 773
+  size: 380, 392
+  orig: 380, 400
+  offset: 0, 4
+  index: -1

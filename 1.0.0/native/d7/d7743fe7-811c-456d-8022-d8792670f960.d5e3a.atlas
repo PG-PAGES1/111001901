@@ -1,0 +1,55 @@
+
+pot_fx_front.png
+size: 396,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vase_03_featglo_00
+  rotate: false
+  xy: 244, 89
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+vase_03_featglo_01
+  rotate: false
+  xy: 329, 34
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+vase_03_featglo_02
+  rotate: true
+  xy: 306, 23
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+vase_03_feature-blur
+  rotate: false
+  xy: 331, 70
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+vase_03_feature_glo02
+  rotate: false
+  xy: 244, 15
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+vase_03_feature_swipe01
+  rotate: false
+  xy: 2, 2
+  size: 119, 143
+  orig: 119, 143
+  offset: 0, 0
+  index: -1
+vase_03_feature_swipe02
+  rotate: false
+  xy: 123, 2
+  size: 119, 143
+  orig: 119, 143
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+cut_open.png
+size: 1117,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_And_Red_Light/blue_shine2
+  rotate: true
+  xy: 695, 33
+  size: 219, 67
+  orig: 219, 67
+  offset: 0, 0
+  index: -1
+Blue_Potion/white
+  rotate: false
+  xy: 1026, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Treasure_Mode/cut_scene_border
+  rotate: false
+  xy: 695, 1
+  size: 311, 30
+  orig: 311, 30
+  offset: 0, 0
+  index: -1
+Treasure_Mode/ground_1
+  rotate: true
+  xy: 764, 45
+  size: 207, 84
+  orig: 207, 84
+  offset: 0, 0
+  index: -1
+Treasure_Mode/ground_2
+  rotate: true
+  xy: 272, 2
+  size: 250, 119
+  orig: 250, 141
+  offset: 0, 4
+  index: -1
+Treasure_Mode/ground_3
+  rotate: true
+  xy: 144, 2
+  size: 250, 126
+  orig: 250, 141
+  offset: 0, 15
+  index: -1
+Treasure_Mode/persues_head
+  rotate: false
+  xy: 430, 4
+  size: 263, 248
+  orig: 311, 250
+  offset: 29, 2
+  index: -1
+Treasure_Mode/pillar
+  rotate: true
+  xy: 1, 2
+  size: 250, 141
+  orig: 250, 141
+  offset: 0, 0
+  index: -1
+Treasure_Mode/stone_1
+  rotate: true
+  xy: 1050, 163
+  size: 89, 23
+  orig: 89, 23
+  offset: 0, 0
+  index: -1
+Treasure_Mode/stone_2
+  rotate: false
+  xy: 850, 35
+  size: 103, 50
+  orig: 103, 50
+  offset: 0, 0
+  index: -1
+Treasure_Mode/vase
+  rotate: false
+  xy: 922, 94
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+Treasure_Mode/vase_glowing
+  rotate: true
+  xy: 955, 35
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+spark_glow
+  rotate: true
+  xy: 850, 87
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+vfx_light
+  rotate: false
+  xy: 393, 2
+  size: 35, 250
+  orig: 35, 250
+  offset: 0, 0
+  index: -1

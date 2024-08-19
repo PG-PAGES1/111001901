@@ -1,0 +1,48 @@
+
+ko.png
+size: 919,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_And_Red_Light/blue_shine
+  rotate: false
+  xy: 376, 22
+  size: 219, 67
+  orig: 219, 67
+  offset: 0, 0
+  index: -1
+Blue_And_Red_Light/red_shine
+  rotate: false
+  xy: 597, 23
+  size: 227, 66
+  orig: 227, 66
+  offset: 0, 0
+  index: -1
+Defeat_Medusa_Loading/bg
+  rotate: true
+  xy: 376, 91
+  size: 240, 341
+  orig: 240, 341
+  offset: 0, 0
+  index: -1
+Defeat_Medusa_Loading/persues
+  rotate: true
+  xy: 1, 1
+  size: 330, 373
+  orig: 330, 373
+  offset: 0, 0
+  index: -1
+Defeat_Medusa_Loading/persues_blur
+  rotate: false
+  xy: 826, 32
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+Defeat_Medusa_Loading/shield
+  rotate: false
+  xy: 719, 138
+  size: 193, 193
+  orig: 193, 193
+  offset: 0, 0
+  index: -1

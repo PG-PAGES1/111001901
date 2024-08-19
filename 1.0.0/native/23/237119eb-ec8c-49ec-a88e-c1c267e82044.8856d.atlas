@@ -1,0 +1,265 @@
+
+torch.png
+size: 1945,1067
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+torch/Torch_00
+  rotate: false
+  xy: 1730, 335
+  size: 214, 245
+  orig: 226, 246
+  offset: 12, 1
+  index: -1
+torch/Torch_01
+  rotate: true
+  xy: 1483, 153
+  size: 214, 245
+  orig: 226, 246
+  offset: 12, 1
+  index: -1
+torch/Torch_02
+  rotate: false
+  xy: 1730, 88
+  size: 214, 245
+  orig: 226, 246
+  offset: 12, 1
+  index: -1
+torch/Torch_03
+  rotate: true
+  xy: 1, 4
+  size: 214, 245
+  orig: 226, 246
+  offset: 12, 1
+  index: -1
+torch/Torch_04
+  rotate: true
+  xy: 248, 218
+  size: 212, 245
+  orig: 226, 246
+  offset: 14, 1
+  index: -1
+torch/Torch_05
+  rotate: true
+  xy: 495, 218
+  size: 212, 245
+  orig: 226, 246
+  offset: 14, 1
+  index: -1
+torch/Torch_06
+  rotate: true
+  xy: 1236, 401
+  size: 211, 245
+  orig: 226, 246
+  offset: 15, 1
+  index: -1
+torch/Torch_07
+  rotate: true
+  xy: 248, 856
+  size: 210, 243
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_08
+  rotate: true
+  xy: 493, 856
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_09
+  rotate: true
+  xy: 740, 856
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_10
+  rotate: true
+  xy: 987, 856
+  size: 210, 243
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_11
+  rotate: true
+  xy: 1232, 856
+  size: 210, 242
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_12
+  rotate: true
+  xy: 1476, 856
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_13
+  rotate: true
+  xy: 1, 857
+  size: 209, 245
+  orig: 226, 246
+  offset: 17, 1
+  index: -1
+torch/Torch_14
+  rotate: true
+  xy: 742, 218
+  size: 212, 245
+  orig: 226, 246
+  offset: 14, 1
+  index: -1
+torch/Torch_15
+  rotate: true
+  xy: 248, 2
+  size: 214, 245
+  orig: 226, 246
+  offset: 12, 1
+  index: -1
+torch/Torch_16
+  rotate: true
+  xy: 742, 1
+  size: 215, 245
+  orig: 226, 246
+  offset: 11, 1
+  index: -1
+torch/Torch_17
+  rotate: true
+  xy: 1, 645
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_18
+  rotate: false
+  xy: 1728, 582
+  size: 211, 242
+  orig: 226, 246
+  offset: 15, 1
+  index: -1
+torch/Torch_19
+  rotate: true
+  xy: 248, 644
+  size: 210, 243
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_20
+  rotate: false
+  xy: 1723, 826
+  size: 210, 240
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_21
+  rotate: true
+  xy: 493, 644
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_22
+  rotate: true
+  xy: 740, 644
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_23
+  rotate: true
+  xy: 987, 644
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_24
+  rotate: true
+  xy: 1234, 644
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_25
+  rotate: true
+  xy: 1481, 614
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_26
+  rotate: true
+  xy: 1, 433
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_27
+  rotate: true
+  xy: 248, 432
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_28
+  rotate: true
+  xy: 495, 432
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_29
+  rotate: true
+  xy: 742, 432
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_30
+  rotate: true
+  xy: 989, 432
+  size: 210, 245
+  orig: 226, 246
+  offset: 16, 1
+  index: -1
+torch/Torch_31
+  rotate: true
+  xy: 1483, 369
+  size: 211, 245
+  orig: 226, 246
+  offset: 15, 1
+  index: -1
+torch/Torch_32
+  rotate: true
+  xy: 1, 220
+  size: 211, 245
+  orig: 226, 246
+  offset: 15, 1
+  index: -1
+torch/Torch_33
+  rotate: true
+  xy: 989, 1
+  size: 215, 245
+  orig: 226, 246
+  offset: 11, 1
+  index: -1
+torch/Torch_34
+  rotate: true
+  xy: 989, 218
+  size: 212, 245
+  orig: 226, 246
+  offset: 14, 1
+  index: -1
+torch/Torch_35
+  rotate: true
+  xy: 1236, 186
+  size: 213, 245
+  orig: 226, 246
+  offset: 13, 1
+  index: -1
+torch/Torch_36
+  rotate: true
+  xy: 495, 2
+  size: 214, 245
+  orig: 226, 246
+  offset: 12, 1
+  index: -1

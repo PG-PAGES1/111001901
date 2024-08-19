@@ -1,0 +1,97 @@
+
+Wild_Effect_unpack.png
+size: 1639,350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild_Effect_unpack/Wild_Symbol_ZH_00
+  rotate: true
+  xy: 1176, 2
+  size: 172, 234
+  orig: 230, 290
+  offset: 29, 48
+  index: -1
+Wild_Effect_unpack/Wild_Symbol_ZH_01
+  rotate: false
+  xy: 1465, 115
+  size: 173, 234
+  orig: 230, 290
+  offset: 29, 48
+  index: -1
+Wild_Effect_unpack/Wild_Symbol_ZH_02
+  rotate: true
+  xy: 1, 1
+  size: 173, 234
+  orig: 230, 290
+  offset: 29, 48
+  index: -1
+Wild_Effect_unpack/Wild_Symbol_ZH_03
+  rotate: true
+  xy: 237, 1
+  size: 173, 234
+  orig: 230, 290
+  offset: 29, 48
+  index: -1
+Wild_Effect_unpack/Wild_Symbol_ZH_04
+  rotate: true
+  xy: 709, 1
+  size: 173, 233
+  orig: 230, 290
+  offset: 29, 48
+  index: -1
+Wild_Effect_unpack/Wild_Symbol_ZH_05
+  rotate: true
+  xy: 944, 1
+  size: 173, 230
+  orig: 230, 290
+  offset: 29, 48
+  index: -1
+Wild_Effect_unpack/Wild_Symbol_ZH_06
+  rotate: true
+  xy: 473, 1
+  size: 173, 234
+  orig: 230, 290
+  offset: 29, 48
+  index: -1
+Wild_Effect_unpack/Wild_Symbol_ZH_07
+  rotate: true
+  xy: 1, 176
+  size: 173, 242
+  orig: 230, 290
+  offset: 29, 48
+  index: -1
+Wild_Effect_unpack/Wild_Symbol_ZH_08
+  rotate: true
+  xy: 245, 176
+  size: 173, 242
+  orig: 230, 290
+  offset: 29, 48
+  index: -1
+Wild_Effect_unpack/Wild_Symbol_ZH_09
+  rotate: true
+  xy: 489, 176
+  size: 173, 242
+  orig: 230, 290
+  offset: 29, 48
+  index: -1
+Wild_Effect_unpack/Wild_Symbol_ZH_10
+  rotate: true
+  xy: 733, 176
+  size: 173, 242
+  orig: 230, 290
+  offset: 29, 48
+  index: -1
+Wild_Effect_unpack/Wild_Symbol_ZH_11
+  rotate: true
+  xy: 977, 176
+  size: 173, 242
+  orig: 230, 290
+  offset: 29, 48
+  index: -1
+Wild_Effect_unpack/Wild_Symbol_ZH_12
+  rotate: true
+  xy: 1221, 176
+  size: 173, 242
+  orig: 230, 290
+  offset: 29, 48
+  index: -1

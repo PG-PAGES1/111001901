@@ -1,0 +1,124 @@
+
+anniu.jpg
+size: 1088,1088
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sonic_Wave2/Spine_VFX_001
+  rotate: false
+  xy: 317, 726
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Sonic_Wave2/Spine_VFX_002
+  rotate: false
+  xy: 679, 726
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Sonic_Wave2/Spine_VFX_003
+  rotate: false
+  xy: 2, 364
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Sonic_Wave2/Spine_VFX_004
+  rotate: false
+  xy: 364, 364
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Sonic_Wave2/Spine_VFX_005
+  rotate: false
+  xy: 726, 364
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Sonic_Wave2/Spine_VFX_006
+  rotate: false
+  xy: 2, 2
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Sonic_Wave2/Spine_VFX_007
+  rotate: false
+  xy: 364, 2
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Sonic_Wave2/Spine_VFX_008
+  rotate: false
+  xy: 726, 2
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Spin_Button/spin_highlight
+  rotate: true
+  xy: 130, 902
+  size: 184, 185
+  orig: 184, 185
+  offset: 0, 0
+  index: -1
+mh_vfx_02
+  rotate: false
+  xy: 2, 960
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+
+anniu2.jpg
+size: 1088,726
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sonic_Wave2/Spine_VFX_009
+  rotate: false
+  xy: 2, 364
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Sonic_Wave2/Spine_VFX_010
+  rotate: false
+  xy: 2, 2
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Sonic_Wave2/Spine_VFX_011
+  rotate: false
+  xy: 364, 364
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Sonic_Wave2/Spine_VFX_012
+  rotate: false
+  xy: 364, 2
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Sonic_Wave2/Spine_VFX_013
+  rotate: false
+  xy: 726, 364
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+Sonic_Wave2/Spine_VFX_014
+  rotate: false
+  xy: 726, 2
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1

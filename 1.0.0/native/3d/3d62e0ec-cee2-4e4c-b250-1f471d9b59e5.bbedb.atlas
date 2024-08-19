@@ -1,0 +1,69 @@
+
+mace.png
+size: 289,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 2, 113
+  size: 163, 150
+  orig: 163, 150
+  offset: 0, 0
+  index: -1
+Chain
+  rotate: false
+  xy: 2, 23
+  size: 153, 88
+  orig: 153, 88
+  offset: 0, 0
+  index: -1
+Handle
+  rotate: false
+  xy: 167, 152
+  size: 84, 111
+  orig: 84, 111
+  offset: 0, 0
+  index: -1
+faguang_1
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fx-aura
+  rotate: false
+  xy: 167, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx-dust
+  rotate: false
+  xy: 253, 231
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx-embers
+  rotate: false
+  xy: 157, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx-embers1
+  rotate: true
+  xy: 233, 92
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+fx-embers2
+  rotate: false
+  xy: 223, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+dagger.png
+size: 337,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+121212
+  rotate: false
+  xy: 178, 2
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+Dagger
+  rotate: true
+  xy: 2, 6
+  size: 164, 174
+  orig: 164, 174
+  offset: 0, 0
+  index: -1
+Sheath
+  rotate: false
+  xy: 178, 37
+  size: 157, 133
+  orig: 157, 133
+  offset: 0, 0
+  index: -1
+faguang_1
+  rotate: false
+  xy: 247, 18
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

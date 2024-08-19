@@ -1,0 +1,139 @@
+
+xiaoyoux_shine.jpg
+size: 1099,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_And_Red_Light/blue_shine
+  rotate: true
+  xy: 540, 99
+  size: 219, 67
+  orig: 219, 67
+  offset: 0, 0
+  index: -1
+Blue_And_Red_Light/red_shine
+  rotate: true
+  xy: 540, 320
+  size: 227, 66
+  orig: 227, 66
+  offset: 0, 0
+  index: -1
+Blue_Potion/Impact_03
+  rotate: false
+  xy: 1, 4
+  size: 537, 543
+  orig: 537, 543
+  offset: 0, 0
+  index: -1
+Blue_Potion/shine
+  rotate: false
+  xy: 608, 352
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_00
+  rotate: false
+  xy: 609, 99
+  size: 139, 106
+  orig: 147, 140
+  offset: 4, 17
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_01
+  rotate: false
+  xy: 540, 1
+  size: 139, 96
+  orig: 147, 140
+  offset: 4, 22
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_02
+  rotate: false
+  xy: 681, 1
+  size: 139, 96
+  orig: 147, 140
+  offset: 4, 20
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_03
+  rotate: false
+  xy: 961, 18
+  size: 137, 100
+  orig: 147, 140
+  offset: 6, 15
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_04
+  rotate: false
+  xy: 822, 6
+  size: 137, 108
+  orig: 147, 140
+  offset: 5, 10
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_05
+  rotate: true
+  xy: 887, 120
+  size: 137, 124
+  orig: 147, 140
+  offset: 6, 3
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_06
+  rotate: true
+  xy: 750, 116
+  size: 141, 135
+  orig: 147, 140
+  offset: 1, 0
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_07
+  rotate: true
+  xy: 609, 207
+  size: 143, 138
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_08
+  rotate: true
+  xy: 608, 404
+  size: 143, 140
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_09
+  rotate: true
+  xy: 749, 259
+  size: 143, 138
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_10
+  rotate: true
+  xy: 750, 404
+  size: 143, 137
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_11
+  rotate: true
+  xy: 989, 291
+  size: 125, 96
+  orig: 147, 140
+  offset: 6, 17
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_12
+  rotate: true
+  xy: 889, 284
+  size: 129, 98
+  orig: 147, 140
+  offset: 3, 16
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_13
+  rotate: true
+  xy: 979, 418
+  size: 129, 88
+  orig: 147, 140
+  offset: 1, 27
+  index: -1
+Blue_Potion_Hit_unpack/water_impact_14
+  rotate: true
+  xy: 889, 415
+  size: 132, 88
+  orig: 147, 140
+  offset: 0, 26
+  index: -1

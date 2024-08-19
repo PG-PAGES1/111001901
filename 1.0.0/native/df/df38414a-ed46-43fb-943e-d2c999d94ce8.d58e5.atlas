@@ -1,0 +1,34 @@
+
+zm.png
+size: 106,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slot_item/a
+  rotate: true
+  xy: 2, 107
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+slot_item/j
+  rotate: true
+  xy: 2, 267
+  size: 66, 102
+  orig: 66, 102
+  offset: 0, 0
+  index: -1
+slot_item/k
+  rotate: true
+  xy: 2, 192
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+slot_item/q
+  rotate: false
+  xy: 2, 2
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1

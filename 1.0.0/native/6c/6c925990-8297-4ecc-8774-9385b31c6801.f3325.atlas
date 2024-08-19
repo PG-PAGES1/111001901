@@ -1,0 +1,202 @@
+
+eye_light.jpg
+size: 900,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Green_Wave/Eye_Effect_Start_00
+  rotate: false
+  xy: 353, 828
+  size: 1, 1
+  orig: 36, 37
+  offset: 35, 0
+  index: -1
+Green_Wave/Eye_Effect_Start_01
+  rotate: false
+  xy: 725, 1
+  size: 44, 43
+  orig: 174, 223
+  offset: 66, 90
+  index: -1
+Green_Wave/Eye_Effect_Start_02
+  rotate: false
+  xy: 725, 46
+  size: 127, 95
+  orig: 174, 223
+  offset: 24, 64
+  index: -1
+Green_Wave/Eye_Effect_Start_03
+  rotate: false
+  xy: 1, 377
+  size: 174, 204
+  orig: 174, 223
+  offset: 0, 9
+  index: -1
+Green_Wave/Eye_Effect_Start_04
+  rotate: false
+  xy: 725, 143
+  size: 168, 127
+  orig: 174, 223
+  offset: 4, 86
+  index: -1
+Green_Wave/Eye_Effect_Start_05
+  rotate: false
+  xy: 1, 19
+  size: 174, 154
+  orig: 174, 223
+  offset: 0, 64
+  index: -1
+Green_Wave/Eye_Effect_Start_06
+  rotate: false
+  xy: 725, 272
+  size: 174, 153
+  orig: 174, 223
+  offset: 0, 35
+  index: -1
+Green_Wave/Eye_Effect_Start_07
+  rotate: false
+  xy: 177, 817
+  size: 174, 214
+  orig: 174, 223
+  offset: 0, 4
+  index: -1
+Green_Wave/Eye_Effect_Start_08
+  rotate: false
+  xy: 1, 808
+  size: 174, 223
+  orig: 174, 223
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_Effect_Start_09
+  rotate: false
+  xy: 1, 583
+  size: 174, 223
+  orig: 174, 223
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_00
+  rotate: false
+  xy: 353, 831
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_01
+  rotate: false
+  xy: 534, 831
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_02
+  rotate: false
+  xy: 715, 831
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_03
+  rotate: false
+  xy: 177, 615
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_04
+  rotate: false
+  xy: 177, 413
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_05
+  rotate: false
+  xy: 1, 175
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_06
+  rotate: false
+  xy: 358, 629
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_07
+  rotate: false
+  xy: 358, 427
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_08
+  rotate: false
+  xy: 539, 629
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_09
+  rotate: false
+  xy: 539, 427
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_10
+  rotate: false
+  xy: 720, 629
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_11
+  rotate: false
+  xy: 720, 427
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_12
+  rotate: false
+  xy: 182, 211
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_13
+  rotate: false
+  xy: 363, 225
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_14
+  rotate: false
+  xy: 544, 225
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_15
+  rotate: false
+  xy: 182, 9
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_16
+  rotate: false
+  xy: 363, 23
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1
+Green_Wave/Eye_VFX_17
+  rotate: false
+  xy: 544, 23
+  size: 179, 200
+  orig: 179, 200
+  offset: 0, 0
+  index: -1

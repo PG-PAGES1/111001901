@@ -1,0 +1,90 @@
+
+helmet.png
+size: 490,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+121212
+  rotate: true
+  xy: 456, 2
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Helmet
+  rotate: true
+  xy: 2, 86
+  size: 153, 207
+  orig: 153, 207
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 211, 143
+  size: 221, 96
+  orig: 221, 96
+  offset: 0, 0
+  index: -1
+faguang_1
+  rotate: false
+  xy: 390, 125
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fx-aura
+  rotate: false
+  xy: 390, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx-embers
+  rotate: false
+  xy: 2, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx-embers1
+  rotate: true
+  xy: 434, 181
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+fx-embers2
+  rotate: false
+  xy: 68, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx-helm
+  rotate: true
+  xy: 211, 47
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+fx-shine
+  rotate: false
+  xy: 134, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx-word
+  rotate: true
+  xy: 434, 68
+  size: 111, 48
+  orig: 111, 48
+  offset: 0, 0
+  index: -1
+fx_helmet
+  rotate: false
+  xy: 311, 37
+  size: 77, 104
+  orig: 77, 104
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+bg_fire.png
+size: 583,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackGround_Fire/mds2_bg_fire_000
+  rotate: false
+  xy: 550, 267
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_001
+  rotate: false
+  xy: 566, 267
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_002
+  rotate: false
+  xy: 550, 251
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_003
+  rotate: false
+  xy: 566, 251
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_004
+  rotate: false
+  xy: 550, 235
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_005
+  rotate: false
+  xy: 566, 235
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_006
+  rotate: false
+  xy: 550, 219
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_007
+  rotate: false
+  xy: 566, 219
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_008
+  rotate: false
+  xy: 550, 203
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_009
+  rotate: false
+  xy: 566, 203
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_010
+  rotate: false
+  xy: 519, 102
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_011
+  rotate: false
+  xy: 535, 102
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_012
+  rotate: false
+  xy: 551, 102
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_013
+  rotate: false
+  xy: 567, 102
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_014
+  rotate: false
+  xy: 519, 86
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_015
+  rotate: false
+  xy: 535, 86
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_016
+  rotate: false
+  xy: 551, 86
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_017
+  rotate: false
+  xy: 567, 86
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_018
+  rotate: false
+  xy: 519, 70
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_019
+  rotate: false
+  xy: 535, 70
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_020
+  rotate: false
+  xy: 551, 70
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_021
+  rotate: false
+  xy: 567, 70
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_022
+  rotate: false
+  xy: 519, 54
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_023
+  rotate: false
+  xy: 535, 54
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_024
+  rotate: false
+  xy: 551, 54
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_025
+  rotate: false
+  xy: 567, 54
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_026
+  rotate: false
+  xy: 519, 38
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_027
+  rotate: false
+  xy: 519, 22
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_028
+  rotate: false
+  xy: 519, 6
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_029
+  rotate: false
+  xy: 535, 38
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_030
+  rotate: false
+  xy: 551, 38
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_031
+  rotate: false
+  xy: 567, 38
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_032
+  rotate: false
+  xy: 535, 22
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_033
+  rotate: false
+  xy: 535, 6
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Fire/mds2_bg_fire_034
+  rotate: false
+  xy: 551, 22
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BackGround_Main/border_shadow
+  rotate: true
+  xy: 519, 118
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+BackGround_Main/fx_bats_fog
+  rotate: true
+  xy: 519, 188
+  size: 127, 29
+  orig: 127, 29
+  offset: 0, 0
+  index: -1
+BackGround_Main/fx_fog
+  rotate: false
+  xy: 550, 283
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+BackGround_Main/main_bg
+  rotate: false
+  xy: 1, 1
+  size: 516, 314
+  orig: 516, 314
+  offset: 0, 0
+  index: -1

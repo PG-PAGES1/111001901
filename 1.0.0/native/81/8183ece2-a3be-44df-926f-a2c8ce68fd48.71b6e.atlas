@@ -1,0 +1,146 @@
+
+perseus_walk.png
+size: 2022,1062
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arch_01
+  rotate: false
+  xy: 2, 169
+  size: 544, 476
+  orig: 544, 476
+  offset: 0, 0
+  index: -1
+arch_02
+  rotate: false
+  xy: 548, 169
+  size: 544, 476
+  orig: 544, 476
+  offset: 0, 0
+  index: -1
+arch_03
+  rotate: false
+  xy: 1234, 362
+  size: 544, 476
+  orig: 544, 476
+  offset: 0, 0
+  index: -1
+arch_filler
+  rotate: true
+  xy: 1650, 150
+  size: 210, 162
+  orig: 210, 162
+  offset: 0, 0
+  index: -1
+floor-pc_01_test
+  rotate: false
+  xy: 2, 919
+  size: 1225, 141
+  orig: 1225, 141
+  offset: 0, 0
+  index: -1
+floor-pc_02_test
+  rotate: false
+  xy: 2, 783
+  size: 1230, 134
+  orig: 1230, 134
+  offset: 0, 0
+  index: -1
+floor-pc_03_test
+  rotate: false
+  xy: 2, 647
+  size: 1211, 134
+  orig: 1211, 134
+  offset: 0, 0
+  index: -1
+fog-a
+  rotate: false
+  xy: 770, 39
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+fog-a1
+  rotate: true
+  xy: 1094, 389
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+pillar_01
+  rotate: false
+  xy: 1780, 470
+  size: 146, 368
+  orig: 146, 368
+  offset: 0, 0
+  index: -1
+pillar_02
+  rotate: false
+  xy: 1094, 41
+  size: 375, 319
+  orig: 375, 319
+  offset: 0, 0
+  index: -1
+pillar_03
+  rotate: true
+  xy: 1662, 2
+  size: 146, 191
+  orig: 146, 191
+  offset: 0, 0
+  index: -1
+radial_shadow
+  rotate: true
+  xy: 1935, 887
+  size: 173, 78
+  orig: 173, 78
+  offset: 0, 0
+  index: -1
+ruin_01
+  rotate: false
+  xy: 1234, 840
+  size: 699, 220
+  orig: 699, 220
+  offset: 0, 0
+  index: -1
+ruin_01_shadow
+  rotate: false
+  xy: 2, 3
+  size: 766, 164
+  orig: 766, 164
+  offset: 0, 0
+  index: -1
+soldier01
+  rotate: true
+  xy: 1471, 10
+  size: 104, 189
+  orig: 104, 189
+  offset: 0, 0
+  index: -1
+soldier02
+  rotate: true
+  xy: 1814, 179
+  size: 112, 146
+  orig: 112, 146
+  offset: 0, 0
+  index: -1
+vase_01
+  rotate: false
+  xy: 1471, 116
+  size: 177, 244
+  orig: 177, 244
+  offset: 0, 0
+  index: -1
+vase_02
+  rotate: true
+  xy: 1814, 293
+  size: 175, 164
+  orig: 175, 164
+  offset: 0, 0
+  index: -1
+vase_03
+  rotate: true
+  xy: 1855, 4
+  size: 173, 165
+  orig: 173, 165
+  offset: 0, 0
+  index: -1

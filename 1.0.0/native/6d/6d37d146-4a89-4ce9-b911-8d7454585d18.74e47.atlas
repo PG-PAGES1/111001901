@@ -1,0 +1,244 @@
+
+bg_bats_fly.png
+size: 1248,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bats_unpack/fx_bats_front_000
+  rotate: false
+  xy: 524, 103
+  size: 16, 17
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Bats_unpack/fx_bats_front_001
+  rotate: false
+  xy: 1020, 2
+  size: 20, 22
+  orig: 22, 24
+  offset: 1, 1
+  index: -1
+Bats_unpack/fx_bats_front_002
+  rotate: false
+  xy: 1070, 5
+  size: 45, 19
+  orig: 46, 22
+  offset: 0, 1
+  index: -1
+Bats_unpack/fx_bats_front_003
+  rotate: false
+  xy: 1183, 46
+  size: 36, 34
+  orig: 46, 36
+  offset: 1, 1
+  index: -1
+Bats_unpack/fx_bats_front_004
+  rotate: false
+  xy: 1183, 214
+  size: 63, 54
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Bats_unpack/fx_bats_front_005
+  rotate: false
+  xy: 1098, 207
+  size: 79, 61
+  orig: 80, 62
+  offset: 0, 1
+  index: -1
+Bats_unpack/fx_bats_front_006
+  rotate: false
+  xy: 1095, 31
+  size: 86, 104
+  orig: 86, 106
+  offset: 0, 1
+  index: -1
+Bats_unpack/fx_bats_front_007
+  rotate: true
+  xy: 608, 5
+  size: 115, 103
+  orig: 116, 104
+  offset: 0, 0
+  index: -1
+Bats_unpack/fx_bats_front_008
+  rotate: true
+  xy: 912, 21
+  size: 109, 106
+  orig: 112, 108
+  offset: 0, 2
+  index: -1
+Bats_unpack/fx_bats_front_009
+  rotate: false
+  xy: 123, 5
+  size: 112, 81
+  orig: 114, 82
+  offset: 0, 0
+  index: -1
+Bats_unpack/fx_bats_front_010
+  rotate: true
+  xy: 713, 1
+  size: 123, 93
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+Bats_unpack/fx_bats_front_011
+  rotate: true
+  xy: 808, 4
+  size: 124, 102
+  orig: 124, 104
+  offset: 0, 2
+  index: -1
+Bats_unpack/fx_bats_front_012
+  rotate: true
+  xy: 632, 126
+  size: 142, 120
+  orig: 144, 120
+  offset: 0, 0
+  index: -1
+Bats_unpack/fx_bats_front_013
+  rotate: true
+  xy: 412, 120
+  size: 148, 110
+  orig: 148, 110
+  offset: 0, 0
+  index: -1
+Bats_unpack/fx_bats_front_014
+  rotate: true
+  xy: 524, 122
+  size: 146, 106
+  orig: 148, 108
+  offset: 0, 2
+  index: -1
+Bats_unpack/fx_bats_front_015
+  rotate: false
+  xy: 395, 4
+  size: 140, 97
+  orig: 142, 98
+  offset: 1, 0
+  index: -1
+Bats_unpack/fx_bats_front_016
+  rotate: true
+  xy: 311, 103
+  size: 165, 99
+  orig: 166, 102
+  offset: 0, 1
+  index: -1
+Bats_unpack/fx_bats_front_017
+  rotate: true
+  xy: 108, 88
+  size: 180, 103
+  orig: 180, 104
+  offset: 0, 1
+  index: -1
+Bats_unpack/fx_bats_front_018
+  rotate: true
+  xy: 1003, 137
+  size: 131, 93
+  orig: 132, 94
+  offset: 0, 1
+  index: -1
+Bats_unpack/fx_bats_front_019
+  rotate: true
+  xy: 754, 130
+  size: 138, 86
+  orig: 140, 88
+  offset: 1, 0
+  index: -1
+Bats_unpack/fx_bats_front_020
+  rotate: true
+  xy: 922, 134
+  size: 134, 79
+  orig: 136, 82
+  offset: 1, 1
+  index: -1
+Bats_unpack/fx_bats_front_021
+  rotate: true
+  xy: 842, 132
+  size: 136, 78
+  orig: 138, 78
+  offset: 2, 0
+  index: -1
+Bats_unpack/fx_bats_front_022
+  rotate: true
+  xy: 1, 88
+  size: 180, 105
+  orig: 180, 106
+  offset: 0, 1
+  index: -1
+Bats_unpack/fx_bats_front_023
+  rotate: true
+  xy: 213, 94
+  size: 174, 96
+  orig: 174, 96
+  offset: 0, 0
+  index: -1
+Bats_unpack/fx_bats_front_024
+  rotate: false
+  xy: 237, 2
+  size: 156, 90
+  orig: 158, 90
+  offset: 2, 0
+  index: -1
+Bats_unpack/fx_bats_front_025
+  rotate: false
+  xy: 1, 5
+  size: 120, 81
+  orig: 122, 84
+  offset: 1, 1
+  index: -1
+Bats_unpack/fx_bats_front_026
+  rotate: true
+  xy: 542, 2
+  size: 118, 64
+  orig: 120, 66
+  offset: 2, 1
+  index: -1
+Bats_unpack/fx_bats_front_027
+  rotate: true
+  xy: 1020, 26
+  size: 109, 73
+  orig: 110, 74
+  offset: 1, 1
+  index: -1
+Bats_unpack/fx_bats_front_028
+  rotate: false
+  xy: 1098, 143
+  size: 94, 62
+  orig: 96, 62
+  offset: 2, 0
+  index: -1
+Bats_unpack/fx_bats_front_029
+  rotate: true
+  xy: 1194, 134
+  size: 78, 53
+  orig: 78, 54
+  offset: 0, 1
+  index: -1
+Bats_unpack/fx_bats_front_030
+  rotate: false
+  xy: 1183, 82
+  size: 62, 50
+  orig: 64, 50
+  offset: 2, 0
+  index: -1
+Bats_unpack/fx_bats_front_031
+  rotate: true
+  xy: 1042, 3
+  size: 21, 26
+  orig: 24, 28
+  offset: 2, 1
+  index: -1
+Bats_unpack/fx_bats_front_032
+  rotate: false
+  xy: 435, 106
+  size: 27, 12
+  orig: 30, 14
+  offset: 2, 1
+  index: -1
+Bats_unpack/fx_bats_front_033
+  rotate: false
+  xy: 412, 105
+  size: 21, 13
+  orig: 22, 16
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,41 @@
+
+pot_ss.png
+size: 430,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SoulStone
+  rotate: true
+  xy: 2, 4
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+SoulStone_b
+  rotate: true
+  xy: 104, 4
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+SoulStone_f
+  rotate: true
+  xy: 206, 4
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+fx-aura
+  rotate: false
+  xy: 308, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx-embers1
+  rotate: true
+  xy: 374, 8
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
